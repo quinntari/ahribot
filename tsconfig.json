@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"lib": ["ES2019", "ES2020", "ESNext"],
+		"module": "NodeNext",
+		"moduleResolution": "nodenext",
+		"outDir": "build",
+		"rootDir": "src",
+		"strict": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"resolveJsonModule": true,
+		"forceConsistentCasingInFileNames": true,
+		"inlineSourceMap": true,
+		"newLine": "lf"
+	},
+	"include": ["src"],
+	"exclude": ["node_modules", "build"]
+}

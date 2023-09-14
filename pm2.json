@@ -1,0 +1,10 @@
+{
+	"apps": [
+		{
+			"name": "ahribot",
+			"script": "./build/index.js",
+			"interpreter_args": "-r dotenv/config --enable-source-maps",
+			"cron_restart": "0 0 * * *"
+		}
+	]
+}

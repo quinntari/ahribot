@@ -1,0 +1,3 @@
+{
+	"extends": "@riveyy-codes/eslint-config/typescript"
+}

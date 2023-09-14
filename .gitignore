@@ -1,0 +1,19 @@
+# Packages
+node_modules/
+
+# Secret environment variable files
+*.env
+
+# tsc output directory
+build
+
+# mega-linter reports
+report/
+
+# play-dl youtube cookie data
+.data
+
+# sqlite database
+*.sqlite
+
+*.log
